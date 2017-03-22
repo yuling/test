@@ -4,4 +4,3 @@ console.log("js")
 console.log("2")
 console.log("2")
 
-console.log("new2  add something");
